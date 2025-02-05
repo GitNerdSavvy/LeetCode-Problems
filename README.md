@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GitNerdSavvy/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GitNerdSavvy/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0229-majority-element-ii](https://github.com/GitNerdSavvy/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/GitNerdSavvy/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/GitNerdSavvy/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GitNerdSavvy/LeetCode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/GitNerdSavvy/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
