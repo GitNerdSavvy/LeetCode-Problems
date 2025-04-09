@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/GitNerdSavvy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2580-circular-sentence](https://github.com/GitNerdSavvy/LeetCode/tree/master/2580-circular-sentence) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GitNerdSavvy/LeetCode/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GitNerdSavvy/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
