@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GitNerdSavvy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2580-circular-sentence](https://github.com/GitNerdSavvy/LeetCode/tree/master/2580-circular-sentence) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GitNerdSavvy/LeetCode/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/GitNerdSavvy/LeetCode/tree/master/0229-majority-element-ii) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/GitNerdSavvy/LeetCode/tree/master/0229-majority-element-ii) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
