@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GitNerdSavvy/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/GitNerdSavvy/LeetCode/tree/master/0414-third-maximum-number) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/GitNerdSavvy/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2580-circular-sentence](https://github.com/GitNerdSavvy/LeetCode/tree/master/2580-circular-sentence) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Hash Table
