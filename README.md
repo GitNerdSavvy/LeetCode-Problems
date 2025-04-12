@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
