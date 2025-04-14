@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GitNerdSavvy/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/GitNerdSavvy/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/GitNerdSavvy/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Dynamic Programming
