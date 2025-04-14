@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/GitNerdSavvy/LeetCode/tree/master/0414-third-maximum-number) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/GitNerdSavvy/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2580-circular-sentence](https://github.com/GitNerdSavvy/LeetCode/tree/master/2580-circular-sentence) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3636-check-balanced-string) |
 ## Hash Table
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
