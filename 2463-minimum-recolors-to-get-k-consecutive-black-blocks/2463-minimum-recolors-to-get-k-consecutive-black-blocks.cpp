@@ -13,9 +13,9 @@ public:
             }else if(j-i+1==k){
                 ans=min(ans,mp['W']);
                 mp[blocks[i]]--;
-                if(mp[blocks[i]]==0){
-                    mp.erase(blocks[i]);
-                }
+                // if(mp[blocks[i]]==0){
+                //     mp.erase(blocks[i]);
+                // }
                 i++;
                 j++;
             }
