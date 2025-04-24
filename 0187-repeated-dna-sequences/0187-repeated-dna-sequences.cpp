@@ -5,11 +5,18 @@ public:
        int n=s.length();
        if(n<10) return ans;
        unordered_map<string,int>mp;
-      int i=0,j=9;
-      while(j<n){
-        string t=s.substr(i,10);
-        mp[t]++,i++,j++;
-      }
+       string t="";
+       for(int i=0;i<10;i++){
+        t+=s[i];
+       }
+       mp[t]++;
+      int i=0,j=10;
+     while(j<n){
+        t.erase(t.begin());
+        t+=s[j];
+        mp[t]++;
+        j++;
+     }
        for(auto it : mp){
         if(it.second > 1){
             ans.push_back(it.first);
