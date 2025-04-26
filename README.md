@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2502-sort-the-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2502-sort-the-people) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
