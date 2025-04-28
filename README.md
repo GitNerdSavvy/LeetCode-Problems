@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/GitNerdSavvy/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2502-sort-the-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GitNerdSavvy/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
