@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/GitNerdSavvy/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/GitNerdSavvy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/GitNerdSavvy/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GitNerdSavvy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GitNerdSavvy/LeetCoder/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GitNerdSavvy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/GitNerdSavvy/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/GitNerdSavvy/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/GitNerdSavvy/LeetCode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/GitNerdSavvy/LeetCode/tree/master/0414-third-maximum-number) |
