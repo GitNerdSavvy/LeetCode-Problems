@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GitNerdSavvy/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GitNerdSavvy/LeetCoder/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/GitNerdSavvy/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/GitNerdSavvy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/GitNerdSavvy/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0075-sort-colors) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/GitNerdSavvy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GitNerdSavvy/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GitNerdSavvy/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/GitNerdSavvy/LeetCode/tree/master/0229-majority-element-ii) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/GitNerdSavvy/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/GitNerdSavvy/LeetCode/tree/master/0229-majority-element-ii) |
