@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2502-sort-the-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/GitNerdSavvy/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2502-sort-the-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sliding Window
 |  |
