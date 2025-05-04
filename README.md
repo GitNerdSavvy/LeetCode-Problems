@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
