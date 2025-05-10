@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0692-top-k-frequent-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0822-unique-morse-code-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
