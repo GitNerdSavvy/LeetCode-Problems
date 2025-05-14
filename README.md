@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Simulation
@@ -376,4 +377,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0908-middle-of-the-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
