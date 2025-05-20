@@ -10,9 +10,31 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        if(!list1 || list2 && list1->val > list2->val) swap(list1,list2);
-        if(list1) list1->next = mergeTwoLists(list1->next, list2);
-        return list1;
+    ListNode* mergeTwoLists(ListNode* a, ListNode* b) {
+        ListNode *list3=new ListNode(50);
+        ListNode *t=list3;
+        ListNode *list1=a;
+        ListNode *list2=b;
+
+        while(list1 && list2){
+            if(list1->val<=list2->val){
+                ListNode* t1=new ListNode(list1->val);
+                t->next=t1;
+                t=t1;
+                list1=list1->next;
+            }
+            else{
+                ListNode* t1=new ListNode(list2->val);
+                t->next=t1;
+                t=t1;
+                list2=list2->next;
+            }
+        }
+        if(list1==nullptr){
+            t->next=list2;
+        }else{
+            t->next=list1;
+        }
+        return list3->next;
     }
 };
