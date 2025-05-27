@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
