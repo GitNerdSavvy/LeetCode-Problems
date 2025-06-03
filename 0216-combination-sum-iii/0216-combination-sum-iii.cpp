@@ -1,24 +1,24 @@
 class Solution {
 public:
-   vector<vector<int>>res;
-    void solve(vector<int>&ans,int idx,int k,int n){
-        if (n < 0 || ans.size() > k ) return;
-        if(n==0 && ans.size() == k){
+   vector<vector<int> >res;
+    void solve(int n,int k,int idx,vector<int>&ans){
+        if(ans.size() == k && n==0){
             res.push_back(ans);
             return;
         }
+        if (ans.size() > k || n < 0 || idx > 9) return;
         
-        for(int j=idx;j<=9;++j){
-            ans.push_back(j);
-            solve(ans, j+1,k, n-j);
+            ans.push_back(idx);
+            solve(n-idx,k,idx+1,ans);
             ans.pop_back();
-        }
         
-    
+        // Not pick Condition
+        solve(n,k,idx+1,ans);
     }
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<int>ans;
-        solve(ans,1,k,n);
+        res.clear();
+        solve(n,k,1,ans);
         return res;
     }
 };
