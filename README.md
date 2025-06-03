@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GitNerdSavvy/LeetCoder/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/GitNerdSavvy/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0049-group-anagrams) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0052-n-queens-ii) |
