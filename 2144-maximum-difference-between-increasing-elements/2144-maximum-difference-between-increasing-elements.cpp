@@ -1,18 +1,17 @@
 class Solution {
 public:
-    int maximumDifference(vector<int>& arr) {
-          int n=arr.size();
-       int ans=-1;
-       int minV=arr[0];
-       for(int i=1;i<n;i++){
-        int c=arr[i]-minV;
-        if(c>0){
-             ans=max(ans,c);
-             minV=min(minV,arr[i]);
+    int maximumDifference(vector<int>& nums) {
+        int ans=-1;
+        int n=nums.size();
+        int minV=nums[0];
+        for(int i=1;i<n;i++){
+            int c=nums[i]-minV;
+            if(c>0){
+                ans=max(ans,c);
+                minV=min(minV,nums[i]);
+            }
+                minV=min(minV,nums[i]);
         }
-         minV=min(minV,arr[i]);
-      
-       }
-       return ans;
+        return ans;
     }
 };
