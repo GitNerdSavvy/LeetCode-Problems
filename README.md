@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1020-longest-turbulent-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1293-three-consecutive-odds](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/GitNerdSavvy/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3114-beautiful-towers-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3114-beautiful-towers-i) |
