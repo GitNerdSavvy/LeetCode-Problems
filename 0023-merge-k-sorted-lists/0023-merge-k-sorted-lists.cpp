@@ -10,8 +10,8 @@
  */
 class Solution {
 public:
-   ListNode* mergeTwoLists(ListNode* a, ListNode* b) {
-        ListNode *list3=new ListNode(50);
+    ListNode* merge(ListNode* a, ListNode* b) {
+        ListNode *list3=new ListNode();
         ListNode *t=list3;
         ListNode *list1=a;
         ListNode *list2=b;
@@ -38,14 +38,12 @@ public:
         return list3->next;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size()==0) return nullptr;
+        if(lists.empty()) return nullptr;
+
         while(lists.size()>1){
-            ListNode *a=lists[0];
+            lists.push_back(merge(lists[0],lists[1]));
             lists.erase(lists.begin());
-            ListNode *b=lists[0];
             lists.erase(lists.begin());
-            ListNode *c=mergeTwoLists(a,b);
-            lists.push_back(c);
         }
         return lists[0];
     }
