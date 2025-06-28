@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0822-unique-morse-code-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0841-shortest-distance-to-a-character) |
+| [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1293-three-consecutive-odds](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1020-longest-turbulent-subarray) |
 ## Stack
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Design
 |  |
 | ------- |
