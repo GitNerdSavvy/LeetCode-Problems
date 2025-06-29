@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0742-to-lower-case) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0649-dota2-senate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2487-optimal-partition-of-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
