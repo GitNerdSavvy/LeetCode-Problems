@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Monotonic Queue
 |  |
