@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -692,4 +695,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
