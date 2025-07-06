@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
 ## Monotonic Queue
 |  |
 | ------- |
