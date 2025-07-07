@@ -23,6 +23,7 @@ public:
         if (level == curr) {
             sum += root->val;
             count++;
+            return;
         }
         nth(root->left, level, curr + 1, sum, count);
         nth(root->right, level, curr + 1, sum, count);
