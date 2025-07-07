@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
