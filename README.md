@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2215-finding-3-digit-even-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2502-sort-the-people) |
