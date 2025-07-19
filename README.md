@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/GitNerdSavvy/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/GitNerdSavvy/LeetCode/tree/master/0414-third-maximum-number) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 ## Number Theory
 |  |
 | ------- |
@@ -854,4 +858,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
