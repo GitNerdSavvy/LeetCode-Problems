@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
