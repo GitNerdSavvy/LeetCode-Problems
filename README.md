@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2502-sort-the-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3113-beautiful-towers-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3114-beautiful-towers-i) |
 | [3194-find-words-containing-character](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3447-clear-digits) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
