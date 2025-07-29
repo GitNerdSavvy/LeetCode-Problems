@@ -1,24 +1,45 @@
 class Solution {
 public:
-    bool isValid(string s) {
-         int n = s.length();
-        if (n < 3) return false;
+    bool cons(char ch) {
+        if (ch == 'b' || ch == 'c' || ch == 'd' || ch == 'f' || ch == 'g' ||
+            ch == 'h' || ch == 'j' || ch == 'k' || ch == 'l' || ch == 'm' ||
+            ch == 'n' || ch == 'p' || ch == 'q' || ch == 'r' || ch == 's' ||
+            ch == 't' || ch == 'v' || ch == 'w' || ch == 'x' || ch == 'y' ||
+            ch == 'z' ) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    bool isValid(string w) {
+        //    string word=tolower(w);
+        // if (w.length() < 3)
+        //     return false;
+        int ans=0;
+        bool let = false;
+        bool v = false;
+        bool c = false;
+        for (auto s : w) {
+            char it = (char)tolower(s);
+            // A to Z
+            
+            if (it == 'a' || it == 'e' || it == 'i' || it == 'o' || it == 'u') {
+                v = true;
+                ans++;
+            }
 
-        int vw = 0, cs = 0;
-        string str = "aeiouAEIOU";
-
-        for (char c : s) {
-            if (isalpha(c)) {
-                if (str.find(c) != string::npos) {
-                    vw++;
-                } else {
-                    cs++;
-                }
-            } else if (!isdigit(c)) {
+           else if (cons(it)) {
+                c = true;
+                ans++;
+            }
+            else if (it-'0'>=0 && it-'0'<=9){
+                ans++;
+            }   
+                
+                else{
                 return false;
             }
         }
-
-        return vw >= 1 && cs >= 1;
+        return (v && c && ans>2);
     }
 };
