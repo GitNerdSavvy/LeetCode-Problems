@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 ## Simulation
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2487-optimal-partition-of-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
