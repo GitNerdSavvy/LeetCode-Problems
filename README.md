@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2502-sort-the-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2634-minimum-common-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2634-minimum-common-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2634-minimum-common-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Union Find
 |  |
