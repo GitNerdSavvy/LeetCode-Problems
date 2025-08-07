@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
