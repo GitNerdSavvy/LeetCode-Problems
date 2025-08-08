@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0560-subarray-sum-equals-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/GitNerdSavvy/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
