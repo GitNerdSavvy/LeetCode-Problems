@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3113-beautiful-towers-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3114-beautiful-towers-i) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2487-optimal-partition-of-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2487-optimal-partition-of-string) |
 | [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sliding Window
 |  |
