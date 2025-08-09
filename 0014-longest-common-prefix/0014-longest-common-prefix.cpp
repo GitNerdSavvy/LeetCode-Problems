@@ -12,5 +12,6 @@ public:
             ans+=first[i];
         }
         return ans;
+// i am here
     }
 };
