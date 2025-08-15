@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+| [1833-find-the-highest-altitude](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Divide and Conquer
