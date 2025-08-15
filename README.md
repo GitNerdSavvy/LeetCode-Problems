@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0090-subsets-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -873,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0100-same-tree) |
