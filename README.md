@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1020-longest-turbulent-subarray) |
+| [1036-rotting-oranges](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
 ## Quickselect
 |  |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
