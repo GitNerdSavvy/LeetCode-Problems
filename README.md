@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
+| [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
+| [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
 ## Quickselect
 |  |
@@ -945,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -976,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
