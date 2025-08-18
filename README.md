@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
 | [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
 ## Quickselect
 |  |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
@@ -984,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1731-even-odd-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
