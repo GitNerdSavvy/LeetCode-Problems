@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0542-01-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -963,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0695-max-area-of-island) |
