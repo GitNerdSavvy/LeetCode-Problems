@@ -912,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
+| [0904-leaf-similar-trees](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
@@ -1046,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
