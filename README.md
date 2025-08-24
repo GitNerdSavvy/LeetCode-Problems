@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1020-longest-turbulent-subarray) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2530-minimize-maximum-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2530-minimize-maximum-of-array) |
 ## Stack
 |  |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
