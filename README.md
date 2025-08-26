@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3311-ant-on-the-boundary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
