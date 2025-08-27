@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
+| [0985-bag-of-tokens](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1020-longest-turbulent-subarray) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0961-long-pressed-name) |
+| [0985-bag-of-tokens](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [1454-remove-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [0985-bag-of-tokens](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0917-boats-to-save-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
