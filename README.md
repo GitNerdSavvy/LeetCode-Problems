@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
