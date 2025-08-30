@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
 | [1127-last-stone-weight](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
+| [1219-longest-well-performing-interval](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1219-longest-well-performing-interval) |
 | [1293-three-consecutive-odds](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
+| [1219-longest-well-performing-interval](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1219-longest-well-performing-interval) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1219-longest-well-performing-interval](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1219-longest-well-performing-interval) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1666-make-the-string-great) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+| [1219-longest-well-performing-interval](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1219-longest-well-performing-interval) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1219-longest-well-performing-interval](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1219-longest-well-performing-interval) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
