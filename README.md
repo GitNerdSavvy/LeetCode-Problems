@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2530-minimize-maximum-of-array) |
 ## Stack
 |  |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1219-longest-well-performing-interval](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1219-longest-well-performing-interval) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
