@@ -1,16 +1,18 @@
 class Solution {
 public:
-    int numTrees(int n) {
-       vector<int> cnt(n + 1, 1);
-
-        for (int i = 2; i <= n; i++) {
-            int total = 0;
-            for (int root = 1; root <= i; root++) {
-                total += cnt[root - 1] * cnt[i - root];
-            }
-            cnt[i] = total;
+    int dp[25];
+    int f(int n){
+        if(n==0 || n==1) return 1;
+        if(n==2) return 2;
+        if(dp[n]!=-1) return dp[n];
+        int sm=0;
+        for(int k=1;k<=n;k++){
+            sm+=f(k-1)*f(n-k);
         }
-
-        return cnt[n];
+        return dp[n]=sm;
+    }
+    int numTrees(int n) {
+        memset(dp,-1,sizeof dp);
+        return f(n);
     }
 };
