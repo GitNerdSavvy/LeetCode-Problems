@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0542-01-matrix) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0463-island-perimeter) |
