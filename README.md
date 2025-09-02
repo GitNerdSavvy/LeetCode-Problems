@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+| [0688-knight-probability-in-chessboard](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-longest-mountain-in-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0875-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
