@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/GitNerdSavvy/LeetCode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0413-arithmetic-slices) |
 | [0518-coin-change-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
