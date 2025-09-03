@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/GitNerdSavvy/LeetCode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0518-coin-change-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0542-01-matrix) |
