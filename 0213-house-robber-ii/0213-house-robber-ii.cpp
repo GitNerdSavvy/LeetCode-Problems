@@ -14,12 +14,11 @@ int solve(vector<int>& v, int n, int i, vector<int>& dp) {
         int n=nums.size();
         if(nums.size()==1) return nums[0];
         if(n==2) return max(nums[0],nums[1]);
-        vector<int>nums2=nums;
-        nums2.push_back(nums[0]);
          vector<int> dp(n, -1);
-        int m1=solve(nums,nums.size()-1,0,dp);
-        dp.assign(n+1,-1);
-        int m2=solve(nums2,nums2.size()-1,1,dp);
+        int m1=solve(nums,n-1,0,dp);
+        dp.assign(n,-1);
+        int m2=solve(nums,n,1,dp);
         return max(m1,m2);
+
     }
 };
