@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
 | ------- |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3311-ant-on-the-boundary) |
 | [3447-clear-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3447-clear-digits) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
 |  |
@@ -1348,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1086-divisor-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Topological Sort
 |  |
 | ------- |
