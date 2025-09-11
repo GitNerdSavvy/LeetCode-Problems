@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0463-island-perimeter](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0518-coin-change-ii) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
@@ -1342,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1086-divisor-game) |
 ## Topological Sort
 |  |
