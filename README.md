@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3830-find-closest-person](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
