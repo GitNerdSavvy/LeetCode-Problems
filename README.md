@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3625-stone-removal-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3625-stone-removal-game) |
 | [3830-find-closest-person](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
+| [3625-stone-removal-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3625-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
