@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-longest-well-performing-interval](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1219-longest-well-performing-interval) |
 | [1293-three-consecutive-odds](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1331-path-with-maximum-gold](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
+| [1331-path-with-maximum-gold](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1331-path-with-maximum-gold) |
 ## Matrix
 |  |
 | ------- |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
+| [1331-path-with-maximum-gold](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
