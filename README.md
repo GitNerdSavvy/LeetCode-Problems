@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0078-subsets) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0130-surrounded-regions) |
