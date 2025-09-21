@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GitNerdSavvy/LeetCode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0066-plus-one) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
