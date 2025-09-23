@@ -1,18 +1,24 @@
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        if (n == 0)
+    int dp[2505];
+    int func(vector<int>& nums, int idx) {
+        if (idx < 0)
             return 0;
-        vector<int> dp(n, 1);
+        if (dp[idx] != -1)
+            return dp[idx];
         int ans = 1;
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (nums[j] < nums[i]) {
-                    dp[i] = max(dp[i], dp[j] + 1);
-                }
+        for (int j = 0; j < idx; j++) {
+            if (nums[j] < nums[idx]) {
+                ans = max(ans, 1 + func(nums, j));
             }
-            ans = max(ans, dp[i]);
+        }
+        return dp[idx] = ans;
+    }
+    int lengthOfLIS(vector<int>& nums) {
+        int ans = 0;
+        memset(dp, -1, sizeof dp);
+        for (int i = 0; i < nums.size(); i++) {
+            ans = max(ans, func(nums, i));
         }
         return ans;
     }
