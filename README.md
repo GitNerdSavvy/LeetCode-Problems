@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0326-power-of-three) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -1410,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Binary Search Tree
 |  |
