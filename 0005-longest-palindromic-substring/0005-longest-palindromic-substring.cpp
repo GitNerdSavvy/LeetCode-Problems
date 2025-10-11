@@ -1,31 +1,32 @@
 class Solution {
 public:
-    int n;
-    string lpaline(string s,int l,int h){
-         while(l>=0 && h<n){
-              if(s[l]!=s[h]) break;
-            l--;
-            h++;
-        }
-       
-        return s.substr(l+1,h-1-l);
+    string s;
+    vector<vector<int>> dp;
+    bool isPalindrome(int i, int j) {
+        if (i >= j)
+            return true;
+        if (dp[i][j] != -1)
+            return dp[i][j];
+        if (s[i] != s[j])
+            return dp[i][j] = false;
+        return dp[i][j] = isPalindrome(i + 1, j - 1);
     }
-    string longestPalindrome(string s) {
-        int ln=0;
-        n=s.length();
-        string ans="";
-        for(int i=0;i<n;i++){
-            string s1=lpaline(s,i,i);
-            mx(s1,ans,ln);
-            string s2=lpaline(s,i,i+1);
-            mx(s2,ans,ln);
-        }
-       return ans;
-    }
-    void mx(string str,string &ans,int &ln){
-            if(str.length() > ln){
-                ans=str;
-                ln=str.length();
+    string longestPalindrome(string str) {
+        s=str;
+        int n=s.length();
+        dp.assign(n, vector<int>(n, -1));
+
+        int start = 0, maxLen = 1;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                if (isPalindrome(i, j) && (j - i + 1 > maxLen)) {
+                    start = i;
+                    maxLen = j - i + 1;
+                }
             }
+        }
+
+        return s.substr(start, maxLen);
     }
 };
