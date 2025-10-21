@@ -1059,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -1545,5 +1546,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [1185-find-in-mountain-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
