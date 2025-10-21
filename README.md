@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0268-missing-number) |
