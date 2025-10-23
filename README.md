@@ -832,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1307-ugly-number-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1115,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1185-find-in-mountain-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
+| [1307-ugly-number-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1307-ugly-number-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1496,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1307-ugly-number-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1307-ugly-number-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -1557,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [1307-ugly-number-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1307-ugly-number-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Indexed Tree
 |  |
