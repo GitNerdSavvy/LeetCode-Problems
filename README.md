@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3815-sum-of-largest-prime-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3511-find-the-winning-player-in-coin-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3625-stone-removal-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3830-find-closest-person](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3830-find-closest-person) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
@@ -1497,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3815-sum-of-largest-prime-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search Tree
 |  |
