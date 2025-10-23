@@ -1,18 +1,16 @@
 class Solution {
 public:
- vector<vector<int>>dp;
-    int dfs(int m, int n) {
-        if (m == 1 && n == 1)
-            return 1;
-        if(dp[m][n]!=-1) return dp[m][n];
-        if (m <= 0 || n <= 0)
-            return 0;
-        dp[m][n]= dfs(m - 1, n) + dfs(m, n - 1) ;
-        return dp[m][n];
+    long long nCr(int n, int r) {
+    if (r > n) return 0;
+    if (r == 0 || r == n) return 1;
+    if (r > n - r) r = n - r;
+    long long res = 1;
+    for (int i = 1; i <= r; ++i) {
+        res = res * (n - r + i) / i;
     }
+    return res;
+}
     int uniquePaths(int m, int n) {
-       dp.assign(m+1,vector<int>(n+1,-1));
-        int ans = dfs(m, n);
-        return ans;
+        return (int)nCr(m+n-2,n-1);
     }
 };
