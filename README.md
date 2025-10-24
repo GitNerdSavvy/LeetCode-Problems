@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3373-maximum-prime-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3373-maximum-prime-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3336-water-bottles-ii) |
+| [3373-maximum-prime-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3625-stone-removal-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3625-stone-removal-game) |
@@ -1516,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2873-prime-pairs-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
+| [3373-maximum-prime-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3373-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
