@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2873-prime-pairs-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2530-minimize-maximum-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2530-minimize-maximum-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
@@ -1527,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3373-maximum-prime-difference) |
