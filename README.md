@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1117-as-far-from-land-as-possible](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1117-as-far-from-land-as-possible](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
+| [1117-as-far-from-land-as-possible](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1331-path-with-maximum-gold](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1436,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1117-as-far-from-land-as-possible](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1117-as-far-from-land-as-possible) |
 | [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
