@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0954-maximum-sum-circular-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0961-long-pressed-name) |
 | [0985-bag-of-tokens](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
