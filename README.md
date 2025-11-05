@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1372-check-if-it-is-a-good-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1307-ugly-number-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1372-check-if-it-is-a-good-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1557,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1307-ugly-number-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1307-ugly-number-iii) |
+| [1372-check-if-it-is-a-good-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
