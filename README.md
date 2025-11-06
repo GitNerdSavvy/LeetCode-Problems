@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3863-power-grid-maintenance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3863-power-grid-maintenance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1199,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
 | ------- |
@@ -1436,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
+| [3863-power-grid-maintenance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1480,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
+| [3863-power-grid-maintenance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1624,6 +1630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1642,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3863-power-grid-maintenance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Brainteaser
 |  |
 | ------- |
