@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [2083-three-divisors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
