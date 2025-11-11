@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0504-base-7](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0520-detect-capital) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
