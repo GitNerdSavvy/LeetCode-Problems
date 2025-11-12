@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2756-buy-two-chocolates](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2873-prime-pairs-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
@@ -1595,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2873-prime-pairs-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3373-maximum-prime-difference) |
