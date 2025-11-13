@@ -4,19 +4,20 @@ public:
         if(c=="+") return a+b;
         if(c=="-") return a-b;
         if(c=="*") return a*b;
-        return a/b;
+     return a/b;
     }
     int evalRPN(vector<string>& tokens) {
         stack<int>st;
-        for(string &it : tokens){
-            if(it=="+" || it=="-" || it=="*" || it=="/"){
-                int a=st.top();
+        for(int i=0;i<tokens.size();i++){
+            if(tokens[i]=="+" || tokens[i]=="-" || tokens[i]=="*" || tokens[i]=="/" ){
+                int a =st.top();
                 st.pop();
-                int b=st.top(); 
-                st.pop();               
-                st.push(eval(b,a,it));
+                int b= st.top();
+                st.pop();
+                string c = tokens[i];
+                st.push(eval(b,a,c));
             }else{
-                st.push(stoi(it));
+                st.push(stoi(tokens[i]));
             }
         }
         return st.top();
