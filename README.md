@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
