@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0062-unique-paths) |
