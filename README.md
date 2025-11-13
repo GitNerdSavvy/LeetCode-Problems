@@ -805,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2530-minimize-maximum-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2530-minimize-maximum-of-array) |
+| [2571-find-the-pivot-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3311-ant-on-the-boundary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3311-ant-on-the-boundary) |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2571-find-the-pivot-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
