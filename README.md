@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2634-minimum-common-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2530-minimize-maximum-of-array) |
 | [2571-find-the-pivot-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3311-ant-on-the-boundary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3311-ant-on-the-boundary) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1361,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
