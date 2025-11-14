@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
