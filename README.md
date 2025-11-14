@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0390-elimination-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0645-set-mismatch) |
