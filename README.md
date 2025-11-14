@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1764-maximum-repeating-substring) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2530-minimize-maximum-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2530-minimize-maximum-of-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -922,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2083-three-divisors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1698,6 +1700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1307-ugly-number-iii) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Indexed Tree
 |  |
