@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
@@ -1154,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1280,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2873-prime-pairs-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Linked List
 |  |
 | ------- |
