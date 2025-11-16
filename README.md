@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1666-make-the-string-great](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
