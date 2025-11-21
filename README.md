@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2215-finding-3-digit-even-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2530-minimize-maximum-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2530-minimize-maximum-of-array) |
 | [2571-find-the-pivot-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2571-find-the-pivot-integer) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1873-longest-nice-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Heap (Priority Queue)
 |  |
