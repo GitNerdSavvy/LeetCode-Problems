@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3113-beautiful-towers-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3114-beautiful-towers-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2873-prime-pairs-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
