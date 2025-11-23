@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1219-longest-well-performing-interval](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1219-longest-well-performing-interval) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1331-path-with-maximum-gold](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1331-path-with-maximum-gold) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
@@ -1113,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
