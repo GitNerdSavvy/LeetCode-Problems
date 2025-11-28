@@ -1481,6 +1481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-root-equals-sum-of-children](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1542,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
