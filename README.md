@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-stone-removal-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3625-stone-removal-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
