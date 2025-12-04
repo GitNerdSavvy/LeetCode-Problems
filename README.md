@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0443-string-compression) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0479-largest-palindrome-product](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0479-largest-palindrome-product) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0861-flipping-an-image) |
