@@ -989,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3321-type-of-triangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3373-maximum-prime-difference) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3311-ant-on-the-boundary](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3311-ant-on-the-boundary) |
 | [3336-water-bottles-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3447-clear-digits) |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1873-longest-nice-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -1245,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
