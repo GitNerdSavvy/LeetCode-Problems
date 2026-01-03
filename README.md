@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3533-snake-in-matrix) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -1340,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Linked List
 |  |
 | ------- |
