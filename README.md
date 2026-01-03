@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0897-prime-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0897-prime-palindrome) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0779-k-th-symbol-in-grammar](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
