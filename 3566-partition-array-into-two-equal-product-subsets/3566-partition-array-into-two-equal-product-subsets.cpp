@@ -14,8 +14,6 @@ public:
         ll total = 1;
         for (int x : nums) {
             total *= x;
-            if (total > (ll)target * target)
-                return false;
         }
 
         if (total != (ll)target * target)
