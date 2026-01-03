@@ -1,10 +1,18 @@
 class Solution {
 public:
-    int rec(int n, int k) {
-        if (n == 1) {
-            return 0;
+    int findTheWinner(int n, int k) {
+        queue<int>q;
+        for(int i=1;i<=n;i++){
+            q.push(i);
         }
-        return (rec(n - 1, k) + k) % n;
+        while(q.size()>1 ){
+            for(int i=0;i<k-1;i++){
+                int f = q.front();
+                q.pop();
+                q.push(f);
+            }
+            q.pop();
+        }
+        return q.front();
     }
-    int findTheWinner(int n, int k) { return rec(n, k) + 1; }
 };
