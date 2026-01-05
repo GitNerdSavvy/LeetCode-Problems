@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-find-the-highest-altitude](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1975-maximum-matrix-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2058-concatenation-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
+| [1975-maximum-matrix-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -1460,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1975-maximum-matrix-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
