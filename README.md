@@ -995,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1879-maximum-score-from-removing-stones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1922-count-good-numbers) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2083-three-divisors](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -1285,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1922-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
