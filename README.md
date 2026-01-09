@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0290-word-pattern) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
@@ -1261,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
