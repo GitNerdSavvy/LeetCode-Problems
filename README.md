@@ -951,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0390-elimination-game) |
@@ -1586,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
@@ -1642,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0463-island-perimeter) |
