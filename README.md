@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2614-prime-in-diagonal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2634-minimum-common-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2634-minimum-common-value) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2571-find-the-pivot-integer](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2748-number-of-beautiful-pairs](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2748-number-of-beautiful-pairs) |
@@ -1493,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1975-maximum-matrix-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2614-prime-in-diagonal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2625-increment-submatrices-by-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2662-check-knight-tour-configuration) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1769,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2748-number-of-beautiful-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
