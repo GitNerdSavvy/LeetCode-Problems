@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/GitNerdSavvy/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
