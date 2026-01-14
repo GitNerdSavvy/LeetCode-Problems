@@ -31,7 +31,7 @@ public:
                 bitset<32>(i)
                     .to_string(); // no longer recursion function for dec to bit
             temp = t.substr(t.find('1'));
-            if (s.find(temp) == std::string::npos)
+            if (!sub(s,temp))
                 return false;
         }
         return true;
