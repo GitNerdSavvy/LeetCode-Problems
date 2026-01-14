@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
@@ -1259,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -1371,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2294-minimum-time-to-complete-trips](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
