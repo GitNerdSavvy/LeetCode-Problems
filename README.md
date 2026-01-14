@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1154-day-of-the-year) |
 | [1205-defanging-an-ip-address](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
+| [1208-get-equal-substrings-within-budget](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1250-longest-common-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1219-longest-well-performing-interval](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1219-longest-well-performing-interval) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -1255,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1020-longest-turbulent-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -1369,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1185-find-in-mountain-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1185-find-in-mountain-array) |
+| [1208-get-equal-substrings-within-budget](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1307-ugly-number-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1307-ugly-number-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
