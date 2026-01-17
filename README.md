@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1955-count-number-of-special-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1955-count-number-of-special-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2058-concatenation-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1764-maximum-repeating-substring) |
+| [1955-count-number-of-special-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1955-count-number-of-special-subsequences) |
 | [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2530-minimize-maximum-of-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2530-minimize-maximum-of-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
