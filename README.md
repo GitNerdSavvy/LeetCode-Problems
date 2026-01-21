@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1405-longest-happy-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -1223,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1405-longest-happy-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
