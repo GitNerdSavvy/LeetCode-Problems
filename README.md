@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0461-hamming-distance) |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -1357,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0546-remove-boxes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
