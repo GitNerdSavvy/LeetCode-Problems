@@ -1009,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0670-maximum-swap) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
