@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
@@ -1404,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
