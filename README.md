@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -1102,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -1157,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0861-flipping-an-image) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1873-longest-nice-substring](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
