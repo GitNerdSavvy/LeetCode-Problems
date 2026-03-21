@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1250-longest-common-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1278-palindrome-partitioning-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1278-palindrome-partitioning-iii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1278-palindrome-partitioning-iii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1278-palindrome-partitioning-iii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
