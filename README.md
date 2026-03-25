@@ -1987,6 +1987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0886-possible-bipartition) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Union-Find
 |  |
 | ------- |
