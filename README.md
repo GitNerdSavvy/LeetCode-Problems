@@ -1700,6 +1700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0886-possible-bipartition) |
 | [0904-leaf-similar-trees](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1755,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0871-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0886-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/1104-coloring-a-border) |
@@ -1984,8 +1986,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0886-possible-bipartition) |
 ## Union-Find
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
