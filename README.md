@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/GitNerdSavvy/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0479-largest-palindrome-product](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/GitNerdSavvy/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
